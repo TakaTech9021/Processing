@@ -1,0 +1,17 @@
+C:\Users\f1204\source\repos\ShootingGame\ShootingGame\bin\Debug\net8.0-windows\ShootingGame.exe
+C:\Users\f1204\source\repos\ShootingGame\ShootingGame\bin\Debug\net8.0-windows\ShootingGame.deps.json
+C:\Users\f1204\source\repos\ShootingGame\ShootingGame\bin\Debug\net8.0-windows\ShootingGame.runtimeconfig.json
+C:\Users\f1204\source\repos\ShootingGame\ShootingGame\bin\Debug\net8.0-windows\ShootingGame.dll
+C:\Users\f1204\source\repos\ShootingGame\ShootingGame\bin\Debug\net8.0-windows\ShootingGame.pdb
+C:\Users\f1204\source\repos\ShootingGame\ShootingGame\obj\Debug\net8.0-windows\ShootingGame.Form1.resources
+C:\Users\f1204\source\repos\ShootingGame\ShootingGame\obj\Debug\net8.0-windows\ShootingGame.Properties.Resources.resources
+C:\Users\f1204\source\repos\ShootingGame\ShootingGame\obj\Debug\net8.0-windows\ShootingGame.csproj.GenerateResource.cache
+C:\Users\f1204\source\repos\ShootingGame\ShootingGame\obj\Debug\net8.0-windows\ShootingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f1204\source\repos\ShootingGame\ShootingGame\obj\Debug\net8.0-windows\ShootingGame.AssemblyInfoInputs.cache
+C:\Users\f1204\source\repos\ShootingGame\ShootingGame\obj\Debug\net8.0-windows\ShootingGame.AssemblyInfo.cs
+C:\Users\f1204\source\repos\ShootingGame\ShootingGame\obj\Debug\net8.0-windows\ShootingGame.csproj.CoreCompileInputs.cache
+C:\Users\f1204\source\repos\ShootingGame\ShootingGame\obj\Debug\net8.0-windows\ShootingGame.dll
+C:\Users\f1204\source\repos\ShootingGame\ShootingGame\obj\Debug\net8.0-windows\refint\ShootingGame.dll
+C:\Users\f1204\source\repos\ShootingGame\ShootingGame\obj\Debug\net8.0-windows\ShootingGame.pdb
+C:\Users\f1204\source\repos\ShootingGame\ShootingGame\obj\Debug\net8.0-windows\ShootingGame.genruntimeconfig.cache
+C:\Users\f1204\source\repos\ShootingGame\ShootingGame\obj\Debug\net8.0-windows\ref\ShootingGame.dll
