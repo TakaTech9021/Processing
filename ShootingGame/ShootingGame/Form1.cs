@@ -405,7 +405,7 @@ namespace ShootingGame
                 Jiki.MoveDown = true;
             if (e.KeyCode == Keys.Up)
                 Jiki.MoveUp = true;
-            if (e.KeyCode == Keys.Space)
+            if (e.KeyCode == Keys.Space && !Jiki.IsDead)
                 Shot();
             if (e.KeyCode == Keys.S && Jiki.IsDead)
                 Retry();
