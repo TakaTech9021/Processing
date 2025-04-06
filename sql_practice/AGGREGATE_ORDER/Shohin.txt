@@ -1,0 +1,19 @@
+create table Shohin
+(shohin_id char(4) NOT NULL,
+ shohin_mei varchar(100) NOT NULL,
+ shohin_bunrui varchar(32) NOT NULL,
+ hanbai_tanka INTEGER,
+ shiire_tanka INTEGER,
+ torokubi DATE,
+ PRIMARY KEY (shohin_id));
+
+
+SELECT shohin_id, shohin_mei, hanbai_tanka, shiire_tanka FROM Shohin ORDER BY hanbai_tanka;
+
+SELECT shohin_id, shohin_mei, hanbai_tanka, shiire_tanka FROM Shohin ORDER BY hanbai_tanka DESC;
+
+SELECT shohin_id, shohin_mei, hanbai_tanka, shiire_tanka FROM Shohin ORDER BY hanbai_tanka, shohin_id;
+
+SELECT shohin_id, shohin_mei, hanbai_tanka, shiire_tanka FROM Shohin ORDER BY shiire_tanka;
+
+SELECT shohin_bunrui, COUNT(*) FROM Shohin GROUP BY shohin_bunrui ORDER BY COUNT(*);
